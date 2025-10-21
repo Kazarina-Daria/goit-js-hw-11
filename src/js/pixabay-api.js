@@ -9,7 +9,7 @@ params :{
       key: API_KEY,
         q: query,
         image_type: "photo",
-  orientation : "horisontal",
+  orientation : "horizontal",
   safesearch: true
 },})
 
